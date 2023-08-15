@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Aug 14 18:59:32 MYT 2023
+base.0=/Users/sulaimanjihad/StudioProjects/untitled1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+base.1=/Users/sulaimanjihad/StudioProjects/untitled1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

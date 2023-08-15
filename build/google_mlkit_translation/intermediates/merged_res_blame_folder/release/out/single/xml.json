@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.google_mlkit_translation-merged_res-14:/xml/rapid_response_client_defaults.xml",
+        "source": "com.google_mlkit_translation-jetified-translate-17.0.1-6:/xml/rapid_response_client_defaults.xml"
+    }
+]

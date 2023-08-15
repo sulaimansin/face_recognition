@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/notification_action.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/custom_dialog.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    }
+]

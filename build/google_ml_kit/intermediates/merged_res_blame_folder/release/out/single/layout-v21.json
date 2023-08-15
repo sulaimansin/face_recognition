@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout-v21/notification_action.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout-v21/notification_action.xml"
+    }
+]

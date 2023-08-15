@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout/custom_dialog.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout/notification_template_part_time.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/layout/notification_template_part_chronometer.xml",
+        "source": "com.b.biradar.google_ml_kit-core-1.6.0-5:/layout/notification_template_part_chronometer.xml"
+    }
+]

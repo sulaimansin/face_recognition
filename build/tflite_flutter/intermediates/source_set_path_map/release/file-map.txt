@@ -1,0 +1,12 @@
+org.tensorflow.tflite_flutter-jetified-window-1.0.0-beta04-0 /Users/sulaimanjihad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+org.tensorflow.tflite_flutter-jetified-annotation-experimental-1.1.0-1 /Users/sulaimanjihad/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+org.tensorflow.tflite_flutter-core-1.6.0-2 /Users/sulaimanjihad/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+org.tensorflow.tflite_flutter-jetified-window-java-1.0.0-beta04-3 /Users/sulaimanjihad/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+org.tensorflow.tflite_flutter-main-4 /Users/sulaimanjihad/.pub-cache/hosted/pub.dev/tflite_flutter-0.10.1/android/src/main/res
+org.tensorflow.tflite_flutter-release-5 /Users/sulaimanjihad/.pub-cache/hosted/pub.dev/tflite_flutter-0.10.1/android/src/release/res
+org.tensorflow.tflite_flutter-pngs-6 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/generated/res/pngs/release
+org.tensorflow.tflite_flutter-resValues-7 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/generated/res/resValues/release
+org.tensorflow.tflite_flutter-rs-8 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/generated/res/rs/release
+org.tensorflow.tflite_flutter-mergeReleaseResources-9 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.tensorflow.tflite_flutter-mergeReleaseResources-10 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.tensorflow.tflite_flutter-merged_res-11 /Users/sulaimanjihad/StudioProjects/untitled1/build/tflite_flutter/intermediates/merged_res/release

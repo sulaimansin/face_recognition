@@ -1,0 +1,14 @@
+com.google_mlkit_commons-jetified-window-1.0.0-beta04-0 /Users/sulaimanjihad/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.google_mlkit_commons-jetified-play-services-basement-18.1.0-1 /Users/sulaimanjihad/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.google_mlkit_commons-jetified-annotation-experimental-1.1.0-2 /Users/sulaimanjihad/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.google_mlkit_commons-jetified-play-services-base-18.1.0-3 /Users/sulaimanjihad/.gradle/caches/transforms-3/781e5567158e59d38ee2b89930f9808b/transformed/jetified-play-services-base-18.1.0/res
+com.google_mlkit_commons-core-1.6.0-4 /Users/sulaimanjihad/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.google_mlkit_commons-jetified-window-java-1.0.0-beta04-5 /Users/sulaimanjihad/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.google_mlkit_commons-main-6 /Users/sulaimanjihad/.pub-cache/hosted/pub.dev/google_mlkit_commons-0.5.0/android/src/main/res
+com.google_mlkit_commons-release-7 /Users/sulaimanjihad/.pub-cache/hosted/pub.dev/google_mlkit_commons-0.5.0/android/src/release/res
+com.google_mlkit_commons-pngs-8 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/generated/res/pngs/release
+com.google_mlkit_commons-resValues-9 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/generated/res/resValues/release
+com.google_mlkit_commons-rs-10 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/generated/res/rs/release
+com.google_mlkit_commons-mergeReleaseResources-11 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.google_mlkit_commons-mergeReleaseResources-12 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.google_mlkit_commons-merged_res-13 /Users/sulaimanjihad/StudioProjects/untitled1/build/google_mlkit_commons/intermediates/merged_res/release

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/color/common_google_signin_btn_text_light.xml",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/color/common_google_signin_btn_text_dark.xml",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.b.biradar.google_ml_kit-merged_res-16:/color/common_google_signin_btn_tint.xml",
+        "source": "com.b.biradar.google_ml_kit-jetified-play-services-base-17.6.0-7:/color/common_google_signin_btn_tint.xml"
+    }
+]
